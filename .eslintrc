@@ -13,7 +13,8 @@
         "arrow-parens":"off",
         "eol-last":"off",
         "object-curly-spacing":"off",
-        "require-jsdoc":"off"
+        "require-jsdoc":"off",
+        "operator-linebreak":"off",
     },
     "extends": ["eslint:recommended", "google"]
 }
